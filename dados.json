@@ -1,0 +1,466 @@
+[
+    {
+        "id":1,
+        "tipo":"receita",
+        "descricao":"Teclado mec\u00e2nico Redragon Kumara",
+        "valor":249.9,
+        "categoria":"Teclado",
+        "data":"2026-09-01"
+    },
+    {
+        "id":3,
+        "tipo":"receita",
+        "descricao":"Headset HyperX Cloud Stinger",
+        "valor":299.9,
+        "categoria":"Headset",
+        "data":"2026-09-02"
+    },
+    {
+        "id":6,
+        "tipo":"receita",
+        "descricao":"Mem\u00f3ria RAM Kingston 8GB",
+        "valor":179.9,
+        "categoria":"Mem\u00f3ria RAM",
+        "data":"2026-09-03"
+    },
+    {
+        "id":7,
+        "tipo":"receita",
+        "descricao":"Placa de v\u00eddeo RTX 4060",
+        "valor":1899.9,
+        "categoria":"Placa de v\u00eddeo",
+        "data":"2026-09-04"
+    },
+    {
+        "id":8,
+        "tipo":"receita",
+        "descricao":"Processador Ryzen 5 5600",
+        "valor":749.9,
+        "categoria":"Processador",
+        "data":"2026-09-04"
+    },
+    {
+        "id":9,
+        "tipo":"receita",
+        "descricao":"Fonte Corsair 650W",
+        "valor":429.9,
+        "categoria":"Fonte",
+        "data":"2026-09-05"
+    },
+    {
+        "id":11,
+        "tipo":"receita",
+        "descricao":"Webcam Full HD Logitech",
+        "valor":249.9,
+        "categoria":"Webcam",
+        "data":"2026-09-06"
+    },
+    {
+        "id":12,
+        "tipo":"receita",
+        "descricao":"Mousepad Gamer RGB",
+        "valor":119.9,
+        "categoria":"Mousepad",
+        "data":"2026-09-06"
+    },
+    {
+        "id":13,
+        "tipo":"receita",
+        "descricao":"Notebook Lenovo IdeaPad",
+        "valor":3299.9,
+        "categoria":"Notebook",
+        "data":"2026-09-07"
+    },
+    {
+        "id":14,
+        "tipo":"receita",
+        "descricao":"Smartphone Samsung Galaxy A55",
+        "valor":2199.9,
+        "categoria":"Smartphone",
+        "data":"2026-09-07"
+    },
+    {
+        "id":15,
+        "tipo":"receita",
+        "descricao":"Carregador USB-C 65W",
+        "valor":149.9,
+        "categoria":"Carregador",
+        "data":"2026-09-08"
+    },
+    {
+        "id":16,
+        "tipo":"receita",
+        "descricao":"Cabo HDMI 2.1",
+        "valor":79.9,
+        "categoria":"Cabos",
+        "data":"2026-09-08"
+    },
+    {
+        "id":17,
+        "tipo":"receita",
+        "descricao":"HD Externo 1TB",
+        "valor":329.9,
+        "categoria":"Armazenamento",
+        "data":"2026-09-09"
+    },
+    {
+        "id":18,
+        "tipo":"receita",
+        "descricao":"SSD NVMe 1TB",
+        "valor":499.9,
+        "categoria":"Armazenamento",
+        "data":"2026-09-09"
+    },
+    {
+        "id":19,
+        "tipo":"receita",
+        "descricao":"Teclado sem fio Logitech",
+        "valor":199.9,
+        "categoria":"Teclado",
+        "data":"2026-09-10"
+    },
+    {
+        "id":20,
+        "tipo":"receita",
+        "descricao":"Mouse sem fio Logitech MX Master",
+        "valor":499.9,
+        "categoria":"Mouse",
+        "data":"2026-09-10"
+    },
+    {
+        "id":21,
+        "tipo":"receita",
+        "descricao":"Controle Xbox Series",
+        "valor":449.9,
+        "categoria":"Controle",
+        "data":"2026-09-10"
+    },
+    {
+        "id":22,
+        "tipo":"receita",
+        "descricao":"Roteador TP-Link Wi-Fi 6",
+        "valor":379.9,
+        "categoria":"Rede",
+        "data":"2026-09-11"
+    },
+    {
+        "id":23,
+        "tipo":"receita",
+        "descricao":"Placa-m\u00e3e ASUS B550",
+        "valor":899.9,
+        "categoria":"Placa-m\u00e3e",
+        "data":"2026-09-11"
+    },
+    {
+        "id":24,
+        "tipo":"receita",
+        "descricao":"Cooler DeepCool",
+        "valor":229.9,
+        "categoria":"Refrigera\u00e7\u00e3o",
+        "data":"2026-09-11"
+    },
+    {
+        "id":25,
+        "tipo":"receita",
+        "descricao":"Mem\u00f3ria RAM Kingston 16GB",
+        "valor":329.9,
+        "categoria":"Mem\u00f3ria RAM",
+        "data":"2026-09-12"
+    },
+    {
+        "id":26,
+        "tipo":"receita",
+        "descricao":"Monitor Gamer 27 polegadas",
+        "valor":1399.9,
+        "categoria":"Monitor",
+        "data":"2026-09-12"
+    },
+    {
+        "id":27,
+        "tipo":"receita",
+        "descricao":"Impressora Epson EcoTank",
+        "valor":1199.9,
+        "categoria":"Impressora",
+        "data":"2026-09-12"
+    },
+    {
+        "id":28,
+        "tipo":"receita",
+        "descricao":"Tablet Samsung Galaxy Tab",
+        "valor":1599.9,
+        "categoria":"Tablet",
+        "data":"2026-09-12"
+    },
+    {
+        "id":29,
+        "tipo":"receita",
+        "descricao":"Power Bank 20000mAh",
+        "valor":159.9,
+        "categoria":"Acess\u00f3rios",
+        "data":"2026-09-12"
+    },
+    {
+        "id":30,
+        "tipo":"receita",
+        "descricao":"Fone Bluetooth JBL",
+        "valor":299.9,
+        "categoria":"\u00c1udio",
+        "data":"2026-09-12"
+    },
+    {
+        "id":31,
+        "tipo":"despesa",
+        "descricao":"Conta de internet",
+        "valor":149.9,
+        "categoria":"Internet",
+        "data":"2026-09-01"
+    },
+    {
+        "id":32,
+        "tipo":"despesa",
+        "descricao":"Conta de energia el\u00e9trica",
+        "valor":687.45,
+        "categoria":"Energia",
+        "data":"2026-09-01"
+    },
+    {
+        "id":33,
+        "tipo":"despesa",
+        "descricao":"Aluguel da loja",
+        "valor":2500.0,
+        "categoria":"Aluguel",
+        "data":"2026-09-01"
+    },
+    {
+        "id":34,
+        "tipo":"despesa",
+        "descricao":"Conta de \u00e1gua",
+        "valor":185.7,
+        "categoria":"\u00c1gua",
+        "data":"2026-09-02"
+    },
+    {
+        "id":35,
+        "tipo":"despesa",
+        "descricao":"Compra de produtos para estoque",
+        "valor":3200.0,
+        "categoria":"Estoque",
+        "data":"2026-09-02"
+    },
+    {
+        "id":36,
+        "tipo":"despesa",
+        "descricao":"Manuten\u00e7\u00e3o dos computadores",
+        "valor":350.0,
+        "categoria":"Manuten\u00e7\u00e3o",
+        "data":"2026-09-03"
+    },
+    {
+        "id":37,
+        "tipo":"despesa",
+        "descricao":"Licen\u00e7a de software",
+        "valor":99.9,
+        "categoria":"Software",
+        "data":"2026-09-03"
+    },
+    {
+        "id":38,
+        "tipo":"despesa",
+        "descricao":"Material de escrit\u00f3rio",
+        "valor":185.5,
+        "categoria":"Material",
+        "data":"2026-09-04"
+    },
+    {
+        "id":39,
+        "tipo":"despesa",
+        "descricao":"Servi\u00e7o de contabilidade",
+        "valor":450.0,
+        "categoria":"Contabilidade",
+        "data":"2026-09-04"
+    },
+    {
+        "id":40,
+        "tipo":"despesa",
+        "descricao":"Publicidade nas redes sociais",
+        "valor":300.0,
+        "categoria":"Marketing",
+        "data":"2026-09-05"
+    },
+    {
+        "id":41,
+        "tipo":"despesa",
+        "descricao":"Compra de caixas para produtos",
+        "valor":220.0,
+        "categoria":"Embalagem",
+        "data":"2026-09-05"
+    },
+    {
+        "id":42,
+        "tipo":"despesa",
+        "descricao":"Servi\u00e7o de limpeza",
+        "valor":180.0,
+        "categoria":"Limpeza",
+        "data":"2026-09-06"
+    },
+    {
+        "id":43,
+        "tipo":"despesa",
+        "descricao":"Frete de mercadorias",
+        "valor":275.9,
+        "categoria":"Frete",
+        "data":"2026-09-06"
+    },
+    {
+        "id":45,
+        "tipo":"despesa",
+        "descricao":"Compra de material de limpeza",
+        "valor":129.9,
+        "categoria":"Limpeza",
+        "data":"2026-09-07"
+    },
+    {
+        "id":46,
+        "tipo":"despesa",
+        "descricao":"Manuten\u00e7\u00e3o do ar-condicionado",
+        "valor":280.0,
+        "categoria":"Manuten\u00e7\u00e3o",
+        "data":"2026-09-08"
+    },
+    {
+        "id":47,
+        "tipo":"despesa",
+        "descricao":"Taxa banc\u00e1ria",
+        "valor":78.5,
+        "categoria":"Taxas",
+        "data":"2026-09-08"
+    },
+    {
+        "id":48,
+        "tipo":"despesa",
+        "descricao":"Compra de etiquetas",
+        "valor":95.0,
+        "categoria":"Material",
+        "data":"2026-09-09"
+    },
+    {
+        "id":49,
+        "tipo":"despesa",
+        "descricao":"Servi\u00e7o de seguran\u00e7a",
+        "valor":320.0,
+        "categoria":"Seguran\u00e7a",
+        "data":"2026-09-09"
+    },
+    {
+        "id":50,
+        "tipo":"despesa",
+        "descricao":"Compra de sacolas",
+        "valor":160.0,
+        "categoria":"Embalagem",
+        "data":"2026-09-10"
+    },
+    {
+        "id":51,
+        "tipo":"despesa",
+        "descricao":"An\u00fancios online",
+        "valor":250.0,
+        "categoria":"Marketing",
+        "data":"2026-09-10"
+    },
+    {
+        "id":52,
+        "tipo":"despesa",
+        "descricao":"Compra de produtos para estoque",
+        "valor":1850.0,
+        "categoria":"Estoque",
+        "data":"2026-09-10"
+    },
+    {
+        "id":53,
+        "tipo":"despesa",
+        "descricao":"Plano de telefone comercial",
+        "valor":89.9,
+        "categoria":"Telefonia",
+        "data":"2026-09-11"
+    },
+    {
+        "id":54,
+        "tipo":"despesa",
+        "descricao":"Manuten\u00e7\u00e3o da impressora",
+        "valor":150.0,
+        "categoria":"Manuten\u00e7\u00e3o",
+        "data":"2026-09-11"
+    },
+    {
+        "id":55,
+        "tipo":"despesa",
+        "descricao":"Compra de papel para impress\u00e3o",
+        "valor":85.9,
+        "categoria":"Material",
+        "data":"2026-09-11"
+    },
+    {
+        "id":56,
+        "tipo":"despesa",
+        "descricao":"Servi\u00e7o de entrega",
+        "valor":210.0,
+        "categoria":"Entrega",
+        "data":"2026-09-12"
+    },
+    {
+        "id":57,
+        "tipo":"despesa",
+        "descricao":"Compra de produtos para estoque",
+        "valor":2700.0,
+        "categoria":"Estoque",
+        "data":"2026-09-12"
+    },
+    {
+        "id":58,
+        "tipo":"despesa",
+        "descricao":"Plano de armazenamento em nuvem",
+        "valor":49.9,
+        "categoria":"Software",
+        "data":"2026-09-12"
+    },
+    {
+        "id":59,
+        "tipo":"despesa",
+        "descricao":"Manuten\u00e7\u00e3o el\u00e9trica da loja",
+        "valor":420.0,
+        "categoria":"Manuten\u00e7\u00e3o",
+        "data":"2026-09-12"
+    },
+    {
+        "id":60,
+        "tipo":"despesa",
+        "descricao":"Material para embalagem",
+        "valor":190.0,
+        "categoria":"Embalagem",
+        "data":"2026-09-12"
+    },
+    {
+        "id":61,
+        "tipo":"receita",
+        "descricao":"capa de celular iphone 13",
+        "valor":25.39,
+        "categoria":"capa de celular",
+        "data":"2026-09-03"
+    },
+    {
+        "id":62,
+        "tipo":"receita",
+        "descricao":"capa de Sansgung galaxy 13",
+        "valor":23.99,
+        "categoria":"capa de celular",
+        "data":"2026-10-20"
+    },
+    {
+        "id":63,
+        "tipo":"receita",
+        "descricao":"Pel\u00edcula de Redmi 10 pro",
+        "valor":37.99,
+        "categoria":"pel\u00edcula",
+        "data":"2026-07-30"
+    }
+]
